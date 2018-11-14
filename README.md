@@ -7,26 +7,31 @@ A windows based program killer written in python. Used to kill running programs 
 ```
 main.py -a | --add ( name )
 ```
+---
 
 ### 3. To see added programs in database use:
 ```
 main.py -s | --show
 ```
+---
 
 ### 4. To remove a program from database use:
 ```
 main.py -r | --remove
 ```
+---
 
 ### 5. To remove all programs from database use:
 ```
 main.py --del-all
 ```
+---
 
 ### 6. To delete the database itself use:
 ```
 main.py --del-db
 ```
+---
 ### 7. To create the database use:
 ```
 main.py --create-db
